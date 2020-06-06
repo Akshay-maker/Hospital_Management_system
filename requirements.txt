@@ -1,4 +1,4 @@
-Django==2.2.5
+Django==2.2.13
 Jinja2==2.10.3
 PyMySQL==0.9.3
 coreapi==2.3.3
